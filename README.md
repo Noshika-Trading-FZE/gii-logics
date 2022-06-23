@@ -1,4 +1,4 @@
-## Pixel Business Logic Dispatcher
+## Logic Dispatcher
 
 ----
 ### How to
